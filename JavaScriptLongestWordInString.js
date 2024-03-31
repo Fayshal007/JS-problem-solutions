@@ -17,5 +17,5 @@ function findLongestword(str) {
     return longestWord;
 }
 
-let result = findLongestword("développeur")
+let result = findLongestword("Watch Thapa Technical javascript course on youotube")
 console.log(result);
